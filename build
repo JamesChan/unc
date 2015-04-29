@@ -1,0 +1,5 @@
+. set_env
+./onos/tools/build/onos-build
+# mvn clean install
+cd $ONOS_ROOT/../odl
+mvn clean install

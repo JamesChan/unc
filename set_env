@@ -1,0 +1,2 @@
+export ONOS_ROOT=$PWD/onos
+source ./onos/tools/dev/bash_profile
