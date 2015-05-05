@@ -1,0 +1,6 @@
+[submodule "onos"]
+	path = onos
+	url = https://github.com/JamesChan/onos.git
+[submodule "odl"]
+	path = odl
+	url = https://github.com/JamesChan/controller.git
